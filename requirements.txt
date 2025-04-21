@@ -1,0 +1,12 @@
+tensorflow-cpu
+numpy
+matplotlib
+pillow
+pandas
+pysimplegui
+scikit-learn
+gunicorn
+tqdm
+wget
+Flask
+fastai
